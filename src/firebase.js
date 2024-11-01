@@ -10,7 +10,7 @@ import {
   const firebaseConfig = {
 
     apiKey: "AIzaSyBCpLxQXmTAG05zCcOcnVNVfGMhrGOYVkA",
-  
+
     authDomain: "netflix-clone-f4a5c.firebaseapp.com",
   
     projectId: "netflix-clone-f4a5c",
@@ -20,6 +20,7 @@ import {
     messagingSenderId: "871416474755",
   
     appId: "1:871416474755:web:ec5bd12a9cedf6af6d7fb6"
+  
   
   };
   
